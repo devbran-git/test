@@ -12,7 +12,7 @@ const Ball = () => {
         borderRadius: 30,
         backgroundColor: '#f00',
       }}>
-      <Text>Bola</Text>
+      <Text>Círculo</Text>
     </View>
   );
 };
