@@ -1,15 +1,19 @@
 import React from 'react';
-import {View} from 'react-native';
+import {Text, View} from 'react-native';
 
 const Ball = () => {
   return (
     <View
       style={{
+        alignItems: 'center',
+        justifyContent: 'center',
         width: 60,
         height: 60,
         borderRadius: 30,
         backgroundColor: '#f00',
-      }}></View>
+      }}>
+      <Text>Quadrado</Text>
+    </View>
   );
 };
 
