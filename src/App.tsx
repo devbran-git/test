@@ -7,7 +7,6 @@ import Ball from './components/ball/ball';
 function App(): JSX.Element {
   return (
     <SafeAreaView>
-      <Text>Hoi</Text>
       <Ball></Ball>
     </SafeAreaView>
   );
