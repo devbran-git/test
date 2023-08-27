@@ -13,6 +13,7 @@ const Ball = () => {
         backgroundColor: '#f00',
       }}>
       <Text>Retângulo</Text>
+      <Text>Quadrado</Text>
     </View>
   );
 };
