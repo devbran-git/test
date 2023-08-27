@@ -12,7 +12,7 @@ const Ball = () => {
         borderRadius: 30,
         backgroundColor: '#f00',
       }}>
-      <Text>Triângulo</Text>
+      <Text>Retângulo</Text>
     </View>
   );
 };
