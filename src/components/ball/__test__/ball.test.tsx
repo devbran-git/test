@@ -5,7 +5,6 @@ import Ball from '../ball';
 describe('Ball', () => {
   it('render component', () => {
     const {debug} = render(<Ball />);
-
     debug();
   });
 });
