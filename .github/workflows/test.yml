@@ -1,9 +1,6 @@
 name: Suites test
 
-on:
-  push:
-    branches:
-      - master
+on: [push, fork]
 jobs:
   publish:
     name: Test
