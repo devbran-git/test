@@ -1,6 +1,6 @@
 name: Suites test
 
-on: [push, fork]
+on: fork
 jobs:
   publish:
     name: Test
